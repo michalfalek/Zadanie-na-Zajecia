@@ -1,4 +1,3 @@
-// script.js
 let currentExpression = ''; // Aktualne wyrażenie matematyczne
 
 // Funkcja do aktualizacji pola tekstowego
